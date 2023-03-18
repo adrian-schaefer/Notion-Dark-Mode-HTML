@@ -7,5 +7,5 @@ This is a very simple script I made for personal use and I have decided to publi
 I recommend not ticking the "Create folders for subpages" box. When there are many subdirectories the extension of the files may be affected and errors may occur.
 
 ### Usage
-chmod +x darkhtml.sh  
-./darkhtml.sh Directory
+chmod +x darkhtml.sh    
+./darkhtml.sh Directory/
