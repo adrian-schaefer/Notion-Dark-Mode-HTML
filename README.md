@@ -8,4 +8,4 @@ I recommend not ticking the "Create folders for subpages" box. When there are ma
 
 ### Usage
 chmod +x darkhtml.sh  
-./darkhtml.sh <Directory>
+./darkhtml.sh Directory
